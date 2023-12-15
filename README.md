@@ -3,11 +3,11 @@
    GEOG5995_Final_Project_Introduction
 
 
+     NOTE
    
-   
-    Note
+     The data for this research have been provided by the Consumer Data Research Centre, an ESRC 
+     Data Investment, under project ID CDRC ES/L011840/1; ES/L011891/1
 
-    
     
     PROJECT BACKGROUND
  
